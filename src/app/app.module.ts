@@ -35,9 +35,9 @@ import { AboutComponent } from './screens/about/about.component';
     MatIconModule,
     MatButtonModule,
     LayoutModule,
-    MatToolbarModule,
     MatSidenavModule,
-    MatListModule
+    MatListModule,
+    MatToolbarModule
   ],
   providers: [],
   bootstrap: [AppComponent]
